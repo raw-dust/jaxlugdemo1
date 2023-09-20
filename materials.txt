@@ -1,8 +1,5 @@
-1000 2x4
-500 plywood
-10000 bricks
-500 sheetrock
-100 shingle packs
-10 windows
-10 doors
-
+50 2x4
+4 plywood
+20 bricks
+5 sheetrock
+10 shingle packs
